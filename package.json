@@ -54,7 +54,7 @@
     "@loopback/repository": "^4.0.1",
     "@loopback/rest": "^11.0.1",
     "@loopback/rest-explorer": "^4.0.1",
-    "@loopback/service-proxy": "^4.0.1",
+    "@loopback/service-proxy": "^4.1.0",
     "loopback-connector-mysql": "^5.4.4",
     "loopback-connector-postgresql": "^5.5.0",
     "mysql2": "^2.3.3",
